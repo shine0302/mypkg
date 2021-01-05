@@ -23,10 +23,7 @@ ROS package
 		
 #### 接続
 
-![IMG_5458](https://user-images.githubusercontent.com/51872484/101022761-2c172880-35b5-11eb-8aae-f2af947cbe37.JPG)  
-色で囲ってある部分が1セット  
-![IMG_E5460](https://user-images.githubusercontent.com/51872484/101022285-84015f80-35b4-11eb-96cb-4022c85392d2.JPG)  
-		
+画像
 		
 ------------------------
 
@@ -40,5 +37,5 @@ ROS package
 ------------------------
 
 #### 動画
-[YouTube]()
+[YouTube]
 ※音はないです。
