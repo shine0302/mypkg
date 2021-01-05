@@ -7,6 +7,6 @@ pub = rospy.Publisher('count_up', Int32, queue_size=1)  # パブリッシャ「c
 rate = rospy.Rate(10)                                   # 10Hzで実行
 n = 0
 while not rospy.is_shutdown():
-        n += 1
+            n += 1
             pub.publish(n)
-                rate.sleep()
+            rate.sleep()
