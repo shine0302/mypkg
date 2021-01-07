@@ -7,11 +7,11 @@
 
 
 #### 動作環境
-	|  |  |
-	|---|---|
-	|ターミナル|Linux(WSL) version4.4.0-|
-	|OS |ubuntu20.04.1 LTS|
-	|ROS|ROS kinetic|
+|  |  |
+|---|---|
+|ターミナル|Linux(WSL) version4.4.0-|
+|OS |ubuntu20.04.1 LTS|
+|ROS|ROS kinetic|
 -----------------------
 	
 #### 使用機材
