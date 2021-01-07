@@ -15,10 +15,11 @@
 -----------------------
 	
 #### 使用機材
-	
-	:Raspberry Pi 3 Model B+ 
-	:ELECOM 有線LANアダプタ/USB2.0/Type-A/USBハブ付/ブラック #EDC-FUA2H-B
-	:LANケーブル
+|||
+|---|---|
+||Raspberry Pi 3 Model B+ |
+||ELECOM 有線LANアダプタ/USB2.0/Type-A/USBハブ付/ブラック #EDC-FUA2H-B|
+||LANケーブル|
 	
 ------------------------
 		
