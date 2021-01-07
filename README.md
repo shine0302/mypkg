@@ -7,6 +7,7 @@
 
 
 #### 動作環境
+	|  |  |
 	|---|---|
 	|ターミナル|Linux(WSL) version4.4.0-|
 	|OS |ubuntu20.04.1 LTS|
