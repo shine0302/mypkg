@@ -39,11 +39,11 @@
 
 1.  
 
-	$ mkdir -p catkin_ws/src　　
+	$ mkdir -p catkin_ws/src/　　
 
 2.
 
-	$ cd ~/catkin_ws/src　　
+	$ cd ~/catkin_ws/src/　　
 
 3.
 
