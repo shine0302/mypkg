@@ -28,6 +28,11 @@
 画像
 		
 ------------------------
+#### ROSのインストールと準備
+	1.[リポジトリ](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)をgit cloneでインポート  リンク先の手順に沿って実行
+		
+	
+
 
 #### 操作手順
 	1.>git clone  //このリポジトリを取得
