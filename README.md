@@ -34,13 +34,20 @@
 
 #### ワークスペースの準備
 1.$ mkdir -p catkin_ws/src　　
+
 2.$ cd ~/catkin_ws/src　　
+
 3.$ tkin_init_workspace　　
+
 4. .bashrcの末尾に以下を追加
-	source /opt/ros/noetic/setup.bash          #これは元からある　　
+	source /opt/ros/noetic/setup.bash       #これは元からある　　
+	
 	source ~/catkin_ws/devel/setup.bash         #ここから3行追加　　
+	
 	export ROS_MASTER_URI=http://localhost:11311　　
+	
 	export ROS_HOSTNAME=localhost　　
+	
 	
 	
 
