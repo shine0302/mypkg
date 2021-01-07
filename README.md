@@ -61,9 +61,10 @@
 
 
 #### 操作手順
-	1.>git clone  https://github.com/shine0302/mypkg.git//このリポジトリを取得
-	2.　　　//ディレクトリに入る
-	3.　　　　　　　　　　//プログラムのコンパイル
+	1.cd ~/catkin_ws/src/
+	2.>git clone  https://github.com/shine0302/mypkg.git//このリポジトリを取得
+	2.cd ~/catkin_ws/src/mypkg/  　//ディレクトリに入る
+	3.$　　　　　　　　　　//プログラムのコンパイル
 
 	
 		
