@@ -12,7 +12,7 @@
 |---|---|
 |ターミナル|Linux(WSL) version4.4.0-|
 |OS |ubuntu20.04.1 LTS|
-|ROS|ROS kinetic|
+|ROS|Melodic Morenia|
 -----------------------
 	
 #### 使用機材
