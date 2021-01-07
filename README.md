@@ -73,6 +73,6 @@
 
 ---------------------------
 #### LICENCE
-|Package|LICENCE NAME|
+|Package|LICENCE|
 |---|---|
 |mypkg|BSD-3|
