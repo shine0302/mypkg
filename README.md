@@ -21,10 +21,10 @@
 |ELECOM 有線LANアダプタ/USB2.0/Type-A/USBハブ付/ブラック #EDC-FUA2H-B|
 |LANケーブル|
 	
-------------------------
 			
 ------------------------
-####　前準備
+
+#### 前準備
 ### ROSのインストール
 1.[こちら](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のリポジトリをgit cloneでインポート  
 2.リンク先の手順に沿って実行
