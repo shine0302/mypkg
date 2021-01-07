@@ -7,7 +7,6 @@
 
 
 #### 動作環境
-|  |  |
 |---|---|
 |ターミナル|Linux(WSL) version4.4.0-|
 |OS |ubuntu20.04.1 LTS|
@@ -15,7 +14,6 @@
 -----------------------
 	
 #### 使用機材
-|||
 |---|---|
 ||Raspberry Pi 3 Model B+ |
 ||ELECOM 有線LANアダプタ/USB2.0/Type-A/USBハブ付/ブラック #EDC-FUA2H-B|
