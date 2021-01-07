@@ -27,10 +27,11 @@
 
 #### 前準備
 ### ROSのインストール
-1.[こちら](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のリポジトリをgit cloneでインポート  
+1.[こちら](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のリポジトリをgit cloneで取得
 2.リンク先の手順に沿って実行
 
 ### ワークスペースの準備
+1~3のコマンドを入力
 1.  
 
 	$ mkdir -p catkin_ws/src　　
@@ -59,7 +60,7 @@
 
 
 #### 操作手順
-	1.>git clone  //このリポジトリを取得
+	1.>git clone  https://github.com/shine0302/mypkg.git//このリポジトリを取得
 	2.　　　//ディレクトリに入る
 	3.　　　　　　　　　　//プログラムのコンパイル
 
@@ -68,7 +69,7 @@
 ------------------------
 
 #### 動画
-[YouTube]
+[YouTube]()
 ※音はないです。
 
 ---------------------------
