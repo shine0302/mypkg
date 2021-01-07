@@ -33,11 +33,17 @@
 2.リンク先の手順に沿って実行
 
 #### ワークスペースの準備
-1.$ mkdir -p catkin_ws/src　　
+1.  
 
-2.$ cd ~/catkin_ws/src　　
+	$ mkdir -p catkin_ws/src　　
 
-3.$ cattkin_init_workspace
+2.
+
+	$ cd ~/catkin_ws/src　　
+
+3.
+
+	$ cattkin_init_workspace
 
 4..bashrcの末尾に以下を追加  
 
