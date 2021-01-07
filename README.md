@@ -38,7 +38,8 @@
 ### ROSのインストール
 
 1.[こちら](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のリポジトリをgit cloneで取得  
-	ubuntu18.04の場合はこちら→https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
+
+※ubuntu18.04の場合はこちら→https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
 
 2.リンク先の手順に沿って実行
 
