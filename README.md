@@ -37,9 +37,9 @@
 
 2.$ cd ~/catkin_ws/src　　
 
-3.$ tkin_init_workspace　　
+3.$ cattkin_init_workspace
 
-4. .bashrcの末尾に以下を追加
+4..bashrcの末尾に以下を追加
 	source /opt/ros/noetic/setup.bash       #これは元からある　　
 	
 	source ~/catkin_ws/devel/setup.bash         #ここから3行追加　　
