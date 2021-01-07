@@ -27,7 +27,8 @@
 
 #### 前準備
 ### ROSのインストール
-1.[こちら](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のリポジトリをgit cloneで取得
+1.[こちら](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のリポジトリをgit cloneで取得  
+
 2.リンク先の手順に沿って実行
 
 ### ワークスペースの準備
