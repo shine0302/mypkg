@@ -7,7 +7,6 @@
 
 	
 ------------------------
-※途中までraspberry piを使っていたが開けなくなったため途中からVirual Boxへ変更
 #### 変更前
 ##### 動作環境
 |||
@@ -23,14 +22,6 @@
 |ELECOM 有線LANアダプタ/USB2.0/Type-A/USBハブ付/ブラック #EDC-FUA2H-B|
 |LANケーブル|
 
------------------------------	
-#### 変更後
-|||
-|---|---|
-|ターミナル|Oracle Virtual Box|
-|OS |ubuntu18.04|
-|ROS|Melodic Morenia|
-
 
 ------------------------
 
@@ -39,7 +30,7 @@
 
 1.[こちら(Ubuntu20.04)](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のリポジトリをgit cloneで取得  
 
-※ubuntu18.04の場合はこちら→https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
+※ubuntu18.04の場合→https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
 
 2.リンク先の手順に沿って実行
 
