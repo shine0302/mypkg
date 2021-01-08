@@ -38,6 +38,7 @@
 
 1.  ディレクトリの作成(以下のコマンドを入力） 
 
+		$ cd
 		$ mkdir -p catkin_ws/src/
 		$ cd ~/catkin_ws/src/　　
 		$ cattkin_init_workspace
