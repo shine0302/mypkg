@@ -31,9 +31,7 @@
 2.リンク先の手順に沿って実行
 
 ### 環境構築
-1~3のコマンドを入力  
-
-1.  
+1.  ディレクトリの作成(以下のコマンドを入力）
 
 	$ mkdir -p catkin_ws/src/
 	$ cd ~/catkin_ws/src/　　
@@ -50,7 +48,7 @@
 	
 	    export ROS_HOSTNAME=localhost　　
 
-3．環境のビルド
+3．環境のビルド(以下のコマンドを入力)
 
 	$ cd ~/catkin_ws
 	$ catkin_make
@@ -62,12 +60,20 @@
 
 
 #### 操作手順
-	1.cd ~/catkin_ws/src/
-	2.>git clone  https://github.com/shine0302/mypkg.git//このリポジトリを取得
-	2.cd ~/catkin_ws/src/mypkg/  　//ディレクトリに入る
-	3.$　　　　　　　　　　//プログラムのコンパイル
+	1.& cd ~/catkin_ws/src/                  
+	2.$ git clone  https://github.com/shine0302/mypkg.git  //このリポジトリを取得
+	3.$ cd ~/catkin_ws/src/mypkg/launch
+	4.$ roscore & 　　　　　　　　　　　　　　　//バックグラウンドでrosを起動、ctrl+cで抜けていい
+	5.$ roslaunch mypkg mypkg.launch          //実行
+	6.別の端末を立ち上げる　
+	7.$ rostopic echo /giant            //確認
+　　　　　　　　　
 
-	
+※もし動かなかったら(パーミッションの設定）
+
+	 1.cd ~/catkin_ws/src/mypkg/ 
+	 2.$chmod +x count.py 
+	 3.$chmod +x giant.py 
 		
 ------------------------
 
