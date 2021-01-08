@@ -41,7 +41,7 @@
 	$ cattkin_init_workspace
 
 
- 2. ~/.bashrcの末尾に以下を追加  
+ 2. ~/.bashrcの末尾に以下を追加   
 
 	   　 source /opt/ros/noetic/setup.bash       #これは元からある
 	
