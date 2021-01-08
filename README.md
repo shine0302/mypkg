@@ -4,7 +4,6 @@
 
 	
 ------------------------
-#### 変更前
 ##### 動作環境
 |||
 |---|---|
@@ -31,31 +30,32 @@
 
 2.リンク先の手順に沿って実行
 
-### ワークスペースの準備
+### 環境構築
 1~3のコマンドを入力  
 
 1.  
 
-	$ mkdir -p catkin_ws/src/　　
-
-2.
-
+	$ mkdir -p catkin_ws/src/
 	$ cd ~/catkin_ws/src/　　
-
-3.
-
 	$ cattkin_init_workspace
 
 
- 4. ~/.bashrcの末尾に以下を追加  
+ 2. ~/.bashrcの末尾に以下を追加  
 
-	    source /opt/ros/noetic/setup.bash       #これは元からある
+	   　source /opt/ros/noetic/setup.bash       #これは元からある
 	
 	    source ~/catkin_ws/devel/setup.bash         #ここから3行追加　　
 	
 	    export ROS_MASTER_URI=http://localhost:11311　　
 	
 	    export ROS_HOSTNAME=localhost　　
+
+3．環境のビルド
+
+	$ cd ~/catkin_ws
+	$ catkin_make
+	$ source ~/.bashrc
+	
 	
 -------------------------------------------------	
 	
