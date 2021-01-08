@@ -20,15 +20,17 @@
 
 
 ------------------------
-
-#### 前準備
 ### ROSのインストール
 
 1.[こちら(Ubuntu20.04)](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のリポジトリをgit cloneで取得  
 
 ※ubuntu18.04の場合→https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
 
-2.リンク先の手順に沿って実行
+2.以下のコマンドを実行
+	
+	$ cd ros_setup_scripts_Ubuntu20.04_server
+	$ bash step0.bash
+	$ bash step1.bash
 
 ### 環境構築
 1.  ディレクトリの作成(以下のコマンドを入力）
