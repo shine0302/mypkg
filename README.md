@@ -9,7 +9,7 @@
 |---|---|
 |ターミナル|Linux(WSL) version4.4.0-,Tera Term|
 |OS |ubuntu20.04.1 LTS|
-|ROS|Melodic Morenia|
+|ROS|ROS Melodic Morenia|
 	
 ##### 使用機材
 ||
