@@ -45,13 +45,10 @@
 
 2. ~/.bashrcの末尾に以下を追加   
 
-	   　	source /opt/ros/noetic/setup.bash       #これは元からある
-	
-	    source ~/catkin_ws/devel/setup.bash         #ここから3行追加　　
-	
-	    export ROS_MASTER_URI=http://localhost:11311　　
-	
-	    export ROS_HOSTNAME=localhost　　
+		source /opt/ros/noetic/setup.bash       #これは元からある
+		source ~/catkin_ws/devel/setup.bash         #ここから3行追加　 
+		export ROS_MASTER_URI=http://localhost:11311　　
+		export ROS_HOSTNAME=localhost　　
 
 3．環境のビルド(以下のコマンドを入力)
 
