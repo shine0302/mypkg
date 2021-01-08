@@ -22,11 +22,12 @@
 ------------------------
 ### ROSのインストール
 
-1.[こちら( ubuntu20.04)](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のリポジトリをgit cloneで取得  
+1.[こちら( ubuntu20.04)](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server)のページのリポジトリをgit cloneで取得  
 
 ※ubuntu18.04の場合→https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_server
 
 
+引用元:Ryuichi Ueda,https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server ,2021/1/8(last visit) 
 
 2.以下のコマンドを実行
 	
