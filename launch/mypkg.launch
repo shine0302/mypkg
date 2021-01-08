@@ -1,4 +1,4 @@
 <launch>
   <node pkg="mypkg" name="count" type="count.py" required="true" />
-  <node pkg="mypkg" name="264" type="264.py" output="screen" required="true" />
+  <node pkg="mypkg" name="giant" type="giant.py" output="screen" required="true" />
 </launch>
