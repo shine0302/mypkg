@@ -27,21 +27,23 @@
 
 ※引用元:Ryuichi Ueda,https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server ,2021/1/8(last visit) 
 
-2.以下のコマンドを実行
+2.以下のコマンドを実行  
 	
 	$ cd ros_setup_scripts_Ubuntu20.04_server
 	$ bash step0.bash
 	$ bash step1.bash
 
+------------------------
 ### 環境構築
-1.  ディレクトリの作成(以下のコマンドを入力）
 
-	$ mkdir -p catkin_ws/src/
-	$ cd ~/catkin_ws/src/　　
-	$ cattkin_init_workspace
+1.  ディレクトリの作成(以下のコマンドを入力） 
+
+		$ mkdir -p catkin_ws/src/
+		$ cd ~/catkin_ws/src/　　
+		$ cattkin_init_workspace
 
 
- 2. ~/.bashrcの末尾に以下を追加   
+2. ~/.bashrcの末尾に以下を追加   
 
 	   　 source /opt/ros/noetic/setup.bash       #これは元からある
 	
