@@ -11,7 +11,7 @@
 |OS |ubuntu20.04.1 LTS|
 |ROS|Melodic Morenia|
 	
-##### 使用機材(
+##### 使用機材
 ||
 |---|
 |Raspberry Pi 3 Model B+ |
