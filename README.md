@@ -66,10 +66,11 @@
 	1.& cd ~/catkin_ws/src/                  
 	2.$ git clone  https://github.com/shine0302/mypkg.git  //このリポジトリを取得
 	3.$ cd ~/catkin_ws/src/mypkg/launch
-	4.$ roscore & 　　　　　　　　　　　　　　　//バックグラウンドでrosを起動、ctrl+cで抜けていい
-	5.$ roslaunch mypkg mypkg.launch          //実行
+	4.$ roscore & 　　　　　　　　　　　　　　　 //バックグラウンドでrosを起動、ctrl+cで抜けていい
+	5.$ roslaunch mypkg mypkg.launch           //実行
 	6.別の端末を立ち上げる　
-	7.$ rostopic echo /giant            //確認
+	7.$ rostopic echo /giant           　　　　 //確認
+	8.それぞれの端末でctrl+c　　　　　　　　　　　 //終了
 　　　　　　　　　
 
 ※もし動かなかったら(パーミッションの設定）
